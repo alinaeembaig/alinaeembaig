@@ -12,7 +12,7 @@ I build scalable web applications, backend systems, admin dashboards, APIs, auto
   <a href="mailto:ali_naeem89@live.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/alinbaig">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/alinaeembaig">
